@@ -117,11 +117,23 @@
                 :size="100"
                 :width="15"
                 :value="valueProgress-20"
-                color="cyan darken-2"
+                color="blue lighten-1"
                 >
                 {{ valueProgress-20 }}%
                 </v-progress-circular>  
                 <p>PHP </p>
+              </v-flex>
+              <v-flex xs12 sm6 md4 lg3 xl3>  
+                <v-progress-circular
+                :rotate="180"
+                :size="100"
+                :width="15"
+                :value="valueProgress-35"
+                color="cyan darken-2"
+                >
+                {{ valueProgress-25 }}%
+                </v-progress-circular>  
+                <p>Python</p>
               </v-flex>
             </v-layout>
           </v-container>  
