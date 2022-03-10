@@ -37,6 +37,12 @@ export default {
     data(){
       return{
         pages:[
+           {
+            imgUrl:'biooilscreenshot.jpg',
+            name:'Bio Oil Perú',
+            sector:'Cuidado de la Piel', 
+            link:'https://biooilperu.pe'
+          },
           {
             imgUrl:'pigeon.jpg',
             name:'Pigeon LATAM',
@@ -63,45 +69,45 @@ export default {
             link:'http://www.nuevomundoespacios.com.pe/'
           },
           {
-            imgUrl:'meatfestscreenshot.png',
+            imgUrl:'meatfestscreenshot.jpg',
             name:'Cyber Week MEAT FEST',
             sector:'Tienda de comestibles y especialidades', 
             link:'https://cyberweekmeatfest.feriasdigitales.pe/'
           }, 
           {
-            imgUrl:'call2actionscreenshot.png',
+            imgUrl:'call2actionscreenshot.jpg',
             name:'Call2action',
             sector:'Agencia de Marketing',
             link:'https://call2action.pe/'
           },
           {
-            imgUrl:'tendenzescreenshot.png',
+            imgUrl:'tendenzescreenshot.jpg',
             name:'Tendenze Perú Comunicaciones',
             sector:'Agencia de Marketing',
             link:'https://tendenzeperu.com/'
           },
          
           {
-            imgUrl:'feriasdigitalesscreenshot.png',
+            imgUrl:'feriasdigitalesscreenshot.jpg',
             name:'Ferias Digitales',
             sector:'Agencia de Marketing', 
             link:'https://feriasdigitales.pe/'
           },
           {
-            imgUrl:'lunademielscreenshot.png',
+            imgUrl:'lunademielscreenshot.jpg',
             name:'Portal de luna de miel',
             sector:'Guía para parejas', 
             link:'https://www.lunademiel.com.pe/'
           },
           {
-            imgUrl:'magaescreenshot.png',
+            imgUrl:'magaescreenshot.jpg',
             name:'Il magazzino delle sorelle',
             sector:'Decoración', 
             link:'https://ilmagazzinodellesorelle.com/'
           },
         
           {
-            imgUrl:'cyberscreenshot.png',
+            imgUrl:'cyberscreenshot.jpg',
             name:'Cyber Week Bebe & Mamá',
             sector:'Tienda', 
             link:'https://cyberweekbyby.feriasdigitales.pe/'
