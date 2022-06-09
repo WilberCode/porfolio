@@ -9,7 +9,7 @@
                     </v-avatar>
                 </template>
                 <template v-slot:opposite  align-start >
-                    <span >Agosto 2019 - Enero 2021</span>
+                    <span >Agosto 2019 - Hasta la actualidad</span>
                 </template>
 
                 <v-card color="white lighten-1 pt-4 experencie-card "
@@ -17,7 +17,7 @@
                 >
                     <v-card-title class="title primary px-5 py-2  experencie-title line-left  "   >Grupo Tendenze Comunicaciones</v-card-title>
                         <v-card-text class="white text--primary">
-                            <h2 class="black--text subtitle-span ">Cargo: <span>Desarollador Web</span></h2> 
+                            <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto</span></h2> 
                             <h2 class="black--text mt-3 " >Funciones:</h2  >  
                             <ul class="list mt-2" >
                                 <li>Desarrollar páginas Webs</li> 
@@ -33,14 +33,13 @@
                                  <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Páginas Webs</h3>
                                 <li>Bio Oil Perú: <a  class="list-link" href="https://biooilperu.pe/" target="_blank" >https://biooilperu.pe/</a> </li>
                                 <li>Pigeon LATAM: <a  class="list-link" href="https://pigeonlatam.com/" target="_blank" >https://pigeonlatam.com/</a> </li>
+                                <li>Luna de miel: <a  class="list-link" href="https://www.lunademiel.com.pe/" target="_blank" >https://www.lunademiel.com.pe</a> </li>
                                 <li>Prestige Dental Care: <a  class="list-link" href="https://prestigedentalcarefl.com" target="_blank" >https://prestigedentalcarefl.com</a> </li>
-                                <li>Ferias Digitales: <a  class="list-link" href="https://feriasdigitales.pe/" target="_blank" >https://feriasdigitales.pe/</a> </li>
-                                <li>Nuevo mundo espacios: <a  class="list-link" href="http://www.nuevomundoespacios.com.pe/" target="_blank" >http://www.nuevomundoespacios.com.pe/</a> </li>
                                 <li>Call2action: <a  class="list-link" href="https://call2action.pe/" target="_blank" >https://call2action.pe/</a> </li>
                                 <li>Grupo Tendenze Comunicaciones: <a  class="list-link" href="https://tendenzeperu.com/" target="_blank" >https://nuevo.tendenzeperu.com</a> </li>
-                                <li>Luna de miel: <a  class="list-link" href="https://www.lunademiel.com.pe/" target="_blank" >https://www.lunademiel.com.pe</a> </li>
-                                <li>IGC: <a  class="list-link" href="https://igc.edu.pe/" target="_blank" >https://igc.edu.pe/</a> </li>
-                                  <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
+                                <li>Ferias Digitales: <a  class="list-link" href="https://feriasdigitales.pe/" target="_blank" >https://feriasdigitales.pe/</a> </li>
+                                <li>Nuevo mundo espacios: <a  class="list-link" href="http://www.nuevomundoespacios.com.pe/" target="_blank" >http://www.nuevomundoespacios.com.pe/</a> </li>
+                                   <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
                                 <li>Cyber week TododKasa: <a  class="list-link" href="https://cyberweektododkasa.feriasdigitales.pe/" target="_blank" >https://cyberweektododkasa.feriasdigitales.pe/</a> </li>
                                 <li>Cyber week Meat Fest: <a  class="list-link" href="https://cyberweekmeatfest.feriasdigitales.pe/" target="_blank" >https://cyberweekmeatfest.feriasdigitales.pe</a> </li>
                                 <li>Cyber Week Baby: <a  class="list-link" href="https://cyberweekbyby.feriasdigitales.pe/" target="_blank" >https://cyberweekbyby.feriasdigitales.pe/</a> </li>
@@ -88,7 +87,7 @@
             fill-dot large key="2" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true">
             <template v-slot:icon>
                 <v-avatar>
-                <img :src="require('../assets/iberoteclogo.png')">
+                <img :src="require('../assets/idatlogo.jpg')">
                 </v-avatar>
             </template>
             <template v-slot:opposite  align-start >
@@ -98,21 +97,22 @@
             <v-card color="white lighten-1 pt-4 experencie-card "
                 dark 
             >
-                <v-card-title class="title primary px-5 py-2  experencie-title line-left ">Instituto de Tecnología y Gestión Iberotec</v-card-title>
+                <v-card-title class="title primary px-5 py-2  experencie-title line-left ">Idat</v-card-title>
                     <v-card-text class="white text--primary   "> 
                         <h2 class="black--text subtitle-span ">Cargo: <span>Practicante Web</span></h2> 
                         <h2 class="black--text mt-3 " >Funciones:</h2  >  
                         <ul class="list mt-2" >
-                            <li>Diseño de componentes de la web</li>
-                            <li>Maquetación de paginas</li>
+                            <li>Programación para Webs</li>
+                            <li>Maquetación de páginas Webs</li>
                             <li>Actualización de información en la web</li>
-                            <li>Actualizar información en Aula virtual</li>
-                            <li>Apoyo en el area de soporte técnico</li> 
+                            <li>Actualización de información en Aula virtual</li>
+                            <li>Asistencia en el area de soporte técnico</li> 
                         </ul>
                         <h2  class="black--text mt-3 " >Logros:</h2>
                             <ul class="list list-success mt-2" >
-                             <li>Brinde apoyo al equipo de sistemas para cumplir el objetivo de facilitar información a los alumnos en las distintas plataformas de la institución. </li>
-                             <li>Iberotec actualmente pertenece a Idat: <a  class="list-link" href="https://web.facebook.com/Iberotec/?_rdc=1&_rdr" target="_blank" >https://web.facebook.com/Iberotec/?_rdc=1&_rdr</a> </li>
+                             <li>He complido las tareas asignadas en tiempo establecido.</li>
+                             <li>He apoyado en dar soluciones a equipos con fallas técnicas en el área de soporte. </li>
+                             <li>Idat: <a  class="list-link" href="https://www.idat.edu.pe/" target="_blank" >https://www.idat.edu.pe/</a> </li>
                            </ul>   
                     </v-card-text>  
                 </v-card>

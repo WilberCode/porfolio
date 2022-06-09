@@ -116,10 +116,10 @@
                 :rotate="180"
                 :size="100"
                 :width="15"
-                :value="valueProgress-20"
+                :value="valueProgress-15"
                 color="blue lighten-1"
                 >
-                {{ valueProgress-20 }}%
+                {{ valueProgress-15 }}%
                 </v-progress-circular>  
                 <p>PHP </p>
               </v-flex>
@@ -128,12 +128,24 @@
                 :rotate="180"
                 :size="100"
                 :width="15"
-                :value="valueProgress-35"
+                :value="valueProgress-20"
                 color="cyan darken-2"
                 >
-                {{ valueProgress-25 }}%
+                {{ valueProgress-20 }}%
                 </v-progress-circular>  
                 <p>Python</p>
+              </v-flex>
+              <v-flex xs12 sm6 md4 lg3 xl3>  
+                <v-progress-circular
+                :rotate="180"
+                :size="100"
+                :width="15"
+                :value="valueProgress-10"
+                color="green "
+                >
+                {{ valueProgress-10 }}%
+                </v-progress-circular>  
+                <p>Shopify</p>
               </v-flex>
             </v-layout>
           </v-container>  

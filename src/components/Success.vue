@@ -60,25 +60,18 @@ export default {
             name:'Prestige Dental Care',
             sector:'Salud', 
             link:'https://prestigedentalcarefl.com/'
-          },
-         
-           {
-            imgUrl:'nmscreenshot.jpg',
-            name:'Nuevo Mundo Espacios',
-            sector:'Inmobiliaria',
-            link:'http://www.nuevomundoespacios.com.pe/'
-          },
-          {
-            imgUrl:'meatfestscreenshot.jpg',
-            name:'Cyber Week MEAT FEST',
-            sector:'Tienda de comestibles y especialidades', 
-            link:'https://cyberweekmeatfest.feriasdigitales.pe/'
           }, 
           {
-            imgUrl:'call2actionscreenshot.jpg',
+            imgUrl:'call2action.jpg',
             name:'Call2action',
             sector:'Agencia de Marketing',
             link:'https://call2action.pe/'
+          },
+           {
+            imgUrl:'lunademielscreenshot.jpg',
+            name:'Portal de luna de miel',
+            sector:'Guía para parejas', 
+            link:'https://www.lunademiel.com.pe/'
           },
           {
             imgUrl:'tendenzescreenshot.jpg',
@@ -93,11 +86,11 @@ export default {
             sector:'Agencia de Marketing', 
             link:'https://feriasdigitales.pe/'
           },
-          {
-            imgUrl:'lunademielscreenshot.jpg',
-            name:'Portal de luna de miel',
-            sector:'Guía para parejas', 
-            link:'https://www.lunademiel.com.pe/'
+           {
+            imgUrl:'igcscreenshot.jpg',
+            name:'IGC - Instituto de Gerencia y Gestión',
+            sector:'Capacitación', 
+            link:'https://igc.edu.pe'
           },
           {
             imgUrl:'magaescreenshot.jpg',
@@ -105,19 +98,25 @@ export default {
             sector:'Decoración', 
             link:'https://ilmagazzinodellesorelle.com/'
           },
-        
+           {
+            imgUrl:'nmscreenshot.jpg',
+            name:'Nuevo Mundo Espacios',
+            sector:'Inmobiliaria',
+            link:'http://www.nuevomundoespacios.com.pe/'
+          },
+          {
+            imgUrl:'meatfestscreenshot.jpg',
+            name:'Cyber Week MEAT FEST',
+            sector:'Tienda de comestibles y especialidades', 
+            link:'https://cyberweekmeatfest.feriasdigitales.pe/'
+          }, 
           {
             imgUrl:'cyberscreenshot.jpg',
             name:'Cyber Week Bebe & Mamá',
             sector:'Tienda', 
             link:'https://cyberweekbyby.feriasdigitales.pe/'
-          }, 
-           {
-            imgUrl:'igcscreenshot.jpg',
-            name:'IGC - Instituto de Gerencia y Gestión',
-            sector:'Capacitación', 
-            link:'https://igc.edu.pe'
           }
+         
           ]
       }
     }
