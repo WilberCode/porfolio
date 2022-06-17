@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/porfolio/js/about.5cd676d4.js"
   },
   {
-    "revision": "6c9dc914c6da0ca5dd2c",
-    "url": "/porfolio/css/app.e2d144ce.css"
+    "revision": "3ea004d072c91d934155",
+    "url": "/porfolio/css/app.63c920d4.css"
   },
   {
-    "revision": "6c9dc914c6da0ca5dd2c",
-    "url": "/porfolio/js/app.22fb8bfe.js"
+    "revision": "3ea004d072c91d934155",
+    "url": "/porfolio/js/app.130834e3.js"
   },
   {
     "revision": "88773a5cd3bf3da88f42",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/porfolio/img/lunademielscreenshot.4b23746e.jpg"
   },
   {
-    "revision": "23678717d318f3429bbfe3a08ec6bdd3",
-    "url": "/porfolio/img/call2action.23678717.jpg"
+    "revision": "79798222b3d0355107dc2752edddf582",
+    "url": "/porfolio/img/call2action.79798222.jpg"
   },
   {
     "revision": "9ba4172573bd4214667678b053757168",
@@ -84,6 +84,10 @@ self.__precacheManifest = [
     "url": "/porfolio/img/favicon.e0008bb0.png"
   },
   {
+    "revision": "87c5d808d154c018ad7f74b8ff82f7d7",
+    "url": "/porfolio/img/me2.87c5d808.svg"
+  },
+  {
     "revision": "22565ce4e1ebb8356005a0e9b696211c",
     "url": "/porfolio/img/pigeon.22565ce4.jpg"
   },
@@ -112,10 +116,6 @@ self.__precacheManifest = [
     "url": "/porfolio/fonts/MaterialIcons-Regular.e79bfd88.eot"
   },
   {
-    "revision": "012cf6a10129e2275d79d6adac7f3b02",
-    "url": "/porfolio/fonts/MaterialIcons-Regular.012cf6a1.woff"
-  },
-  {
     "revision": "570eb83859dc23dd0eec423a49e147fe",
     "url": "/porfolio/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
@@ -124,40 +124,40 @@ self.__precacheManifest = [
     "url": "/porfolio/fonts/MaterialIcons-Regular.a37b0c01.ttf"
   },
   {
+    "revision": "012cf6a10129e2275d79d6adac7f3b02",
+    "url": "/porfolio/fonts/MaterialIcons-Regular.012cf6a1.woff"
+  },
+  {
     "revision": "ad538a69b0e8615ed0419c4529344ffc",
     "url": "/porfolio/fonts/Roboto-Thin.ad538a69.woff2"
-  },
-  {
-    "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
-    "url": "/porfolio/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
-  },
-  {
-    "revision": "d26871e8149b5759f814fd3c7a4f784b",
-    "url": "/porfolio/fonts/Roboto-Light.d26871e8.woff2"
-  },
-  {
-    "revision": "d3b47375afd904983d9be8d6e239a949",
-    "url": "/porfolio/fonts/Roboto-Thin.d3b47375.woff"
-  },
-  {
-    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
-    "url": "/porfolio/fonts/Roboto-ThinItalic.8a96edbb.woff"
-  },
-  {
-    "revision": "e8eaae902c3a4dacb9a5062667e10576",
-    "url": "/porfolio/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
     "revision": "c73eb1ceba3321a80a0aff13ad373cb4",
     "url": "/porfolio/fonts/Roboto-Light.c73eb1ce.woff"
   },
   {
+    "revision": "d3b47375afd904983d9be8d6e239a949",
+    "url": "/porfolio/fonts/Roboto-Thin.d3b47375.woff"
+  },
+  {
+    "revision": "d26871e8149b5759f814fd3c7a4f784b",
+    "url": "/porfolio/fonts/Roboto-Light.d26871e8.woff2"
+  },
+  {
+    "revision": "8a96edbbcd9a6991d79371aed0b0288e",
+    "url": "/porfolio/fonts/Roboto-ThinItalic.8a96edbb.woff"
+  },
+  {
+    "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
+    "url": "/porfolio/fonts/Roboto-ThinItalic.5b4a33e1.woff2"
+  },
+  {
     "revision": "73f0a88bbca1bec19fb1303c689d04c6",
     "url": "/porfolio/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
-    "revision": "13efe6cbc10b97144a28310ebdeda594",
-    "url": "/porfolio/fonts/Roboto-LightItalic.13efe6cb.woff"
+    "revision": "e8eaae902c3a4dacb9a5062667e10576",
+    "url": "/porfolio/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
     "revision": "35b07eb2f8711ae08d1f58c043880930",
@@ -168,12 +168,16 @@ self.__precacheManifest = [
     "url": "/porfolio/fonts/Roboto-RegularItalic.4357beb8.woff2"
   },
   {
+    "revision": "13efe6cbc10b97144a28310ebdeda594",
+    "url": "/porfolio/fonts/Roboto-LightItalic.13efe6cb.woff"
+  },
+  {
     "revision": "f5902d5ef961717ed263902fc429e6ae",
     "url": "/porfolio/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
   {
-    "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
-    "url": "/porfolio/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
+    "revision": "90d1676003d9c28c04994c18bfd8b558",
+    "url": "/porfolio/fonts/Roboto-Medium.90d16760.woff2"
   },
   {
     "revision": "1d6594826615607f6dc860bb49258acb",
@@ -184,24 +188,20 @@ self.__precacheManifest = [
     "url": "/porfolio/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
-    "revision": "90d1676003d9c28c04994c18bfd8b558",
-    "url": "/porfolio/fonts/Roboto-Medium.90d16760.woff2"
-  },
-  {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/porfolio/fonts/Roboto-Bold.b52fac2b.woff2"
   },
   {
-    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
-    "url": "/porfolio/fonts/Roboto-Bold.50d75e48.woff"
+    "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
+    "url": "/porfolio/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
     "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
     "url": "/porfolio/fonts/Roboto-BoldItalic.94008e69.woff2"
   },
   {
-    "revision": "59eb3601394dd87f30f82433fb39dd94",
-    "url": "/porfolio/fonts/Roboto-Black.59eb3601.woff2"
+    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
+    "url": "/porfolio/fonts/Roboto-Bold.50d75e48.woff"
   },
   {
     "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
@@ -212,31 +212,39 @@ self.__precacheManifest = [
     "url": "/porfolio/fonts/Roboto-Black.313a6563.woff"
   },
   {
-    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
-    "url": "/porfolio/fonts/Roboto-BlackItalic.f75569f8.woff2"
+    "revision": "59eb3601394dd87f30f82433fb39dd94",
+    "url": "/porfolio/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
     "revision": "cc2fadc3928f2f223418887111947b40",
     "url": "/porfolio/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
+    "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
+    "url": "/porfolio/fonts/Roboto-BlackItalic.f75569f8.woff2"
+  },
+  {
     "revision": "03ff27a23b2e3fbee90ad49a2238389d",
     "url": "/porfolio/img/cyberweektododkasa.03ff27a2.jpg"
+  },
+  {
+    "revision": "052b94d65608a909e8b3f7722f18d686",
+    "url": "/porfolio/img/wil.052b94d6.svg"
   },
   {
     "revision": "23274f778a0c3f6c777ecb58827362d5",
     "url": "/porfolio/img/idatlogo.23274f77.jpg"
   },
   {
-    "revision": "c92942c340f2420dce07fe7d85e38896",
+    "revision": "055a17f3b56fbc4b898903e43511e03b",
     "url": "/porfolio/index.html"
-  },
-  {
-    "revision": "e0008bb072a0f4f57ebbe9bb9e3bbce1",
-    "url": "/porfolio/favicon.png"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/porfolio/robots.txt"
+  },
+  {
+    "revision": "e0008bb072a0f4f57ebbe9bb9e3bbce1",
+    "url": "/porfolio/favicon.png"
   }
 ];
