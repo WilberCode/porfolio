@@ -2,10 +2,10 @@
     <div>  
         <v-timeline align-top  :dense="$vuetify.breakpoint.smAndDown"   >
             <v-timeline-item   color="primary lighten-1 experencie"  fill-dot 
-                large  data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true"  >
-                <template v-slot:icon  color="red" >
-                    <v-avatar >
-                    <img :src="require('../assets/tendenzelogo.png')">
+                large   >
+                <template v-slot:icon  color="red"  >
+                    <v-avatar  >
+                    <img :src="require('../assets/tendenzelogo.png')"  >
                     </v-avatar>
                 </template>
                 <template v-slot:opposite  align-start >

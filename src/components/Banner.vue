@@ -2,20 +2,20 @@
 <v-container class="banner banner-content"  id="Acercademi"> 
 
   <v-layout row wrap>  
-    <v-flex xs12 sm12 md4 lg4 xl4 >  
+    <v-flex xs12 sm12 md4 lg5 xl4 >  
       <div class="banner-bio">
         <h2>Hola, Soy Wilber</h2>
         <p>
-        Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce, creo landing pages, optimizo velocidad de la web y también configuro posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
+        Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de carga web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
         </p>
       </div>
        
-      <v-btn class="banner-btn secondary "  round  data-aos="fade-up"  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1jn6Zv4emgP8zgdFu2C-d5mpBlsBGM5rp/view" target="_blank"   >Descargar CV </v-btn>
-      <v-btn class="banner-btn  banner-btn--whatsapp" dark="false" round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola" target="_blank" > WhatsApp </v-btn>
+      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1jn6Zv4emgP8zgdFu2C-d5mpBlsBGM5rp/view" target="_blank"   >Descargar CV </v-btn>
+      <v-btn class="banner-btn  large banner-btn--whatsapp" dark="false" round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola" target="_blank" > WhatsApp </v-btn>
       <div class="banner-avatar d-inline-flex py-3 px-4" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
         <div  class="banner-avatar-image" >
           <img  class=" " src="../assets/wilberpariona.jpg" alt="Github"> 
-              <v-btn class="mx-2 social-icon " href="https://github.com/WilberCode"  >
+              <v-btn class="mx-2 social-icon  " href="https://github.com/WilberCode"  >
                 <v-icon size="18px"> {{'fab fa-github'}} </v-icon>
              </v-btn> 
         </div>
@@ -27,9 +27,9 @@
         </div>
       </div>
     </v-flex>
-    <v-flex xs12 sm12 md8 lg8 xl8>  
+    <v-flex xs12 sm12 md8 lg7 xl8>  
       <div class=" banner-image text-sx-center relative text-sm-center text-md-center text-lg-right" >
-        <img :src="require('../assets/me.svg')" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true" data-aos-delay="1800" >
+        <img :src="require('../assets/me2.svg')" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true" data-aos-delay="1800" >
       </div>
       </v-flex>
   </v-layout> 
@@ -65,16 +65,28 @@ $md: 959px;
     font-size:14px;
     color:#ffffff;
     text-transform:none;
-    padding:0 1.5em;
-    margin-left:0;    
+    padding:1.8rem 2em;
+    margin-left:0;  
+    border-radius: 14px;
+    font-size: 18px;    
     &--whatsapp{
-      border-width: 2px !important;
+      border-width: 2px !important; 
     }
+    @media (max-width:600px) {
+      padding:1.8rem 1.5em; 
+      
+    }
+  }
+  & .fill-bg.v-btn.v-btn--outline{
+    background: var(--v-secondary-base) !important;
+    color:white!important;
+     border-width: 2px !important;
+     border-color: var(--v-secondary-base) ;
   }
   &-avatar{
 
     box-shadow: var(--shadow-lg);
-    border-radius: 6px;
+    border-radius: 14px;
     overflow: hidden;
     background: #fff; 
     width: 100%;

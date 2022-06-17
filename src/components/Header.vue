@@ -3,7 +3,9 @@
   <v-container > 
     <v-layout row wrap>
       <v-flex xs4 md2>
-          <div class="header-logo"><img :src="require(`../assets/favicon.png`)" alt="Wilber Pariona" ></div> 
+          <a href="/"  >
+            <div class="header-logo"><img :src="require(`../assets/wil.svg`)" alt="Wilber Pariona" data-aos="fade-left"  data-aos-offset="200"  data-aos-once="true" data-aos-delay="500" ></div>
+          </a> 
       </v-flex>
       <v-flex xs8 md10  class="header-nav"> 
         <div id="toggle" class=" hidden-md-and-up  hidden-xl-and-up" @click="openMenu">
@@ -94,9 +96,23 @@ $md: 959px;
     padding-top:.5em;
     padding-bottom:.5em;
     img{
-      width:40px;
+      width:60px;
       vertical-align:middle;
+  /*     animation-delay: 1.5s;
+      animation-duration:1s;  */
+      //animation-iteration-count: infinite;
+      /* animation-name: logoAnimation; 
+      transition: all ease-in-out; */
+      
     }
+   /*  @keyframes logoAnimation {
+      0%{
+      transform: translateX(-14px);
+      }
+      100%{
+         transform: translateX(30px);
+      }
+    } */
   } 
   .menu{
      display: flex;
