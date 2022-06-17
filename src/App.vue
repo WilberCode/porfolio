@@ -37,4 +37,8 @@ export default {
           background: darken($color: #202aab, $amount: 15);
       }
     }
+    ::selection{
+      background:  var(--v-secondary-base) ;
+      color: white;
+    }
 </style>
