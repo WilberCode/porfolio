@@ -123,7 +123,7 @@ $md: 959px;
     }
   }
   &-image{
-    margin-top:3.5em ; 
+    margin-top:2em ; 
     img{
       @media (max-width:$md){
         width:50%; 

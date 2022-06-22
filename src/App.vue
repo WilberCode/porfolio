@@ -41,4 +41,5 @@ export default {
       background:  var(--v-secondary-base) ;
       color: white;
     }
+  
 </style>
