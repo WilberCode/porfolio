@@ -2,8 +2,8 @@
 <header  class="header" v-sticky>  
   <v-container > 
     <v-layout row wrap>
-      <v-flex xs4 md2>
-          <a href="https://wilbercode.github.io/porfolio/"  > 
+      <v-flex xs4 md2> 
+          <a  href="https://wilbercode.github.io/porfolio/"> 
             <div class="header-logo"><img :src="require(`../assets/wil.svg`)" alt="Wilber Pariona" data-aos="fade-left"  data-aos-offset="200"  data-aos-once="true" data-aos-delay="500" ></div>
           </a> 
       </v-flex>
