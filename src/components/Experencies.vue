@@ -35,15 +35,16 @@
                                 <li>Pigeon LATAM: <a  class="list-link" href="https://pigeonlatam.com/" target="_blank" >https://pigeonlatam.com/</a> </li>
                                 <li>Luna de miel: <a  class="list-link" href="https://www.lunademiel.com.pe/" target="_blank" >https://www.lunademiel.com.pe</a> </li>
                                 <li>Prestige Dental Care: <a  class="list-link" href="https://prestigedentalcarefl.com" target="_blank" >https://prestigedentalcarefl.com</a> </li>
-                                <li>Call2action: <a  class="list-link" href="https://call2action.pe/" target="_blank" >https://call2action.pe/</a> </li>
                                 <li>Grupo Tendenze Comunicaciones: <a  class="list-link" href="https://tendenzeperu.com/" target="_blank" >https://nuevo.tendenzeperu.com</a> </li>
+                                <li>Call2action: <a  class="list-link" href="https://call2action.pe/" target="_blank" >https://call2action.pe/</a> </li>
                                 <li>Ferias Digitales: <a  class="list-link" href="https://feriasdigitales.pe/" target="_blank" >https://feriasdigitales.pe/</a> </li>
                                 <li>Nuevo mundo espacios: <a  class="list-link" href="http://www.nuevomundoespacios.com.pe/" target="_blank" >http://www.nuevomundoespacios.com.pe/</a> </li>
                                    <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
+                                <li>Lumilu Perú: <a  class="list-link" href="https://lumiluperu.com/" target="_blank" >https://lumiluperu.com/</a></li>
+                                <li>Ilmagazzino: <a  class="list-link" href="https://ilmagazzinodellesorelle.com/" target="_blank" >https://ilmagazzinodellesorelle.com/</a> </li>
                                 <li>Cyber week TododKasa: <a  class="list-link" href="https://cyberweektododkasa.feriasdigitales.pe/" target="_blank" >https://cyberweektododkasa.feriasdigitales.pe/</a> </li>
                                 <li>Cyber week Meat Fest: <a  class="list-link" href="https://cyberweekmeatfest.feriasdigitales.pe/" target="_blank" >https://cyberweekmeatfest.feriasdigitales.pe</a> </li>
                                 <li>Cyber Week Baby: <a  class="list-link" href="https://cyberweekbyby.feriasdigitales.pe/" target="_blank" >https://cyberweekbyby.feriasdigitales.pe/</a> </li>
-                                <li>Ilmagazzino: <a  class="list-link" href="https://ilmagazzinodellesorelle.com/" target="_blank" >https://ilmagazzinodellesorelle.com/</a> </li>
                             </ul> 
                           
                         </v-card-text>  

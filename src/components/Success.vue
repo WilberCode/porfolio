@@ -38,6 +38,12 @@ export default {
       return{
         pages:[
            {
+            imgUrl:'lumiluperuscreenshot.jpg',
+            name:'Lumilu Perú',
+            sector:'Market Shop', 
+            link:'https://lumiluperu.com/'
+          },
+           {
             imgUrl:'biooilscreenshot.jpg',
             name:'Bio Oil Perú',
             sector:'Cuidado de la Piel', 
