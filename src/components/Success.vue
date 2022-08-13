@@ -38,6 +38,12 @@ export default {
       return{
         pages:[
            {
+            imgUrl:'solidascreenshot.jpg',
+            name:'Solida Construcción',
+            sector:'Constructora', 
+            link:'https://www.solidaconstruccion.com/'
+          },
+           {
             imgUrl:'lumiluperuscreenshot.jpg',
             name:'Lumilu Perú',
             sector:'Market Shop', 

@@ -13,7 +13,7 @@
             <Knowledge/>
             <h2 id="Experencias" class="text-xs-center mt-5 mb-4" >Experencias</h2>
             <Experencies/>
-             <h2 id="Casosdeexito" class="text-xs-center mt-5 mb-4">Casos de Exito</h2>
+             <h2 id="Casosdeexito" class="text-xs-center mt-5 mb-4">Páginas desarrolladas</h2>
              <Success/>
             </v-flex>
          </v-layout>
