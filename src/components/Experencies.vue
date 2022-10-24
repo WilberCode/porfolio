@@ -78,6 +78,7 @@
                         <h2 class="black--text mt-3" >Logros:</h2> 
                         <ul class="list list-success mt-2" >
                             <li>IGC: <a  class="list-link" href="https://igc.edu.pe" target="_blank" >https://igc.edu.pe</a> </li>
+                            <li>EGG: <a  class="list-link" href="http://escuelag.com/" target="_blank" >http://escuelag.com/</a> </li>
                             <li>Aula virtual: <a  class="list-link" href="https://aulavirtual.igc.edu.pe" target="_blank" >https://aulavirtual.igc.edu.pe</a> </li>
                          </ul>  
                     </v-card-text>  
