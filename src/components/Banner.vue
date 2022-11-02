@@ -10,7 +10,7 @@
         </p>
       </div>
        
-      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1jn6Zv4emgP8zgdFu2C-d5mpBlsBGM5rp/view" target="_blank"   >Descargar CV </v-btn>
+      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1_UhUSBTwYFE0t8eqjyy2rh81qGKtUBGg/view" target="_blank"   >Descargar CV </v-btn>
       <v-btn class="banner-btn  large banner-btn--whatsapp" dark="false" round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola" target="_blank" > WhatsApp </v-btn>
       <div class="banner-avatar d-inline-flex py-3 px-4" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
         <div  class="banner-avatar-image" >
