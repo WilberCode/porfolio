@@ -41,5 +41,9 @@ export default {
       background:  var(--v-secondary-base) ;
       color: white;
     }
-  
+  @media only screen and (min-width: 1904px) {
+    .container {
+      max-width: 1360px !important;
+    }
+  }
 </style>

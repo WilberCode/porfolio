@@ -9,7 +9,7 @@
                     </v-avatar>
                 </template>
                 <template v-slot:opposite  align-start >
-                    <span >Agosto 2019 - Hasta la actualidad</span>
+                    <span >Agosto 2019 - Hasta la actualidad 💪</span>
                 </template>
 
                 <v-card color="white lighten-1 pt-4 experencie-card "
@@ -17,8 +17,8 @@
                 >
                     <v-card-title class="title primary px-5 py-2  experencie-title line-left  "   >Grupo Tendenze Comunicaciones</v-card-title>
                         <v-card-text class="white text--primary">
-                            <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto</span></h2> 
-                            <h2 class="black--text mt-3 " >Funciones:</h2  >  
+                             <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto 🔴🖥️ - Sigo trabajando 😊  </span></h2> 
+                               <!--   <h2 class="black--text mt-3 " >Funciones:</h2  >  
                             <ul class="list mt-2" >
                                 <li>Desarrollar páginas Webs</li> 
                                 <li>Desarrollar Tiendas Online</li> 
@@ -27,15 +27,15 @@
                                 <li>Optimizar Webs</li>
                                 <li>Maquetar Emailings personalizadas </li>
                                 <li>Subir Web a producción</li>
-                            </ul>
-                            <h2  class="black--text mt-3 " >Logros:</h2>
+                            </ul> -->
+                            <h2  class="black--text mt-3 " >Proyectos desarrollados:</h2> 
                              <ul class="list list-success mt-2" >
                                  <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Páginas Webs</h3>
                                 <li>Bio Oil Perú: <a  class="list-link" href="https://biooilperu.pe/" target="_blank" >https://biooilperu.pe/</a> </li>
                                 <li>Pigeon LATAM: <a  class="list-link" href="https://pigeonlatam.com/" target="_blank" >https://pigeonlatam.com/</a> </li>
                                 <li>Luna de miel: <a  class="list-link" href="https://www.lunademiel.com.pe/" target="_blank" >https://www.lunademiel.com.pe</a> </li>
                                 <li>Prestige Dental Care: <a  class="list-link" href="https://prestigedentalcarefl.com" target="_blank" >https://prestigedentalcarefl.com</a> </li>
-                                <li>Grupo Tendenze Comunicaciones: <a  class="list-link" href="https://tendenzeperu.com/" target="_blank" >https://nuevo.tendenzeperu.com</a> </li>
+                                <li>Grupo Tendenze Comunicaciones: <a  class="list-link" href="https://tendenzeperu.com/" target="_blank" >https://tendenzeperu.com</a> </li>
                                 <li>Call2action: <a  class="list-link" href="https://call2action.pe/" target="_blank" >https://call2action.pe/</a> </li>
                                 <li>Ferias Digitales: <a  class="list-link" href="https://feriasdigitales.pe/" target="_blank" >https://feriasdigitales.pe/</a> </li>
                                 <li>Nuevo mundo espacios: <a  class="list-link" href="http://www.nuevomundoespacios.com.pe/" target="_blank" >http://www.nuevomundoespacios.com.pe/</a> </li>
@@ -57,8 +57,8 @@
                     <img :src="require('../assets/igclogo.png')">
                     </v-avatar>
                 </template>
-                <template v-slot:opposite  align-start >
-                    <span >Deciembre 2018 - Junio 2019</span>
+                <template v-slot:opposite  align-end >
+                    <span >Deciembre 2018 - Junio 2019 : <strong>Etapa 1</strong> ✔️  <br>  Septiembre 2022 - Noviembre 2022 : <strong>Etapa 2</strong> ✔️</span>
                 </template>
 
                 <v-card color="white  lighten-1 pt-4 experencie-card"
@@ -66,19 +66,19 @@
                 >
                     <v-card-title class="title primary px-5 py-2  experencie-title line-right ">Instituto de Gerencia Intercontinental (IGC)</v-card-title>
                     <v-card-text class="white text--primary"> 
-                        <h2 class="black--text subtitle-span ">Cargo: <span>Desarollador Web</span></h2> 
-                        <h2 class="black--text mt-3" >Funciones:</h2> 
+                        <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Freelancer 💻</span></h2> 
+                     <!--    <h2 class="black--text mt-3" >Funciones:</h2> 
                         <ul class="list mt-2" >
                             <li>Diseñar Web</li>
                             <li>Desarrollar Web </li> 
                             <li>Configurar SEO esencial para Webs</li> 
                             <li>Maquetar emailings personalizadas</li>
                             <li>Subir Web a producción</li> 
-                        </ul>
-                        <h2 class="black--text mt-3" >Logros:</h2> 
+                        </ul> -->
+                        <h2 class="black--text mt-3" >Proyectos desarrollados:</h2> 
                         <ul class="list list-success mt-2" >
                             <li>IGC: <a  class="list-link" href="https://igc.edu.pe" target="_blank" >https://igc.edu.pe</a> </li>
-                            <li>EGG: <a  class="list-link" href="http://escuelag.com/" target="_blank" >http://escuelag.com/</a> </li>
+                            <li>EGG: <a  class="list-link" href="https://escuelag.com" target="_blank" >https://escuelag.com</a> </li>
                             <li>Aula virtual: <a  class="list-link" href="https://aulavirtual.igc.edu.pe" target="_blank" >https://aulavirtual.igc.edu.pe</a> </li>
                          </ul>  
                     </v-card-text>  
@@ -89,17 +89,34 @@
             fill-dot large key="2" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true">
             <template v-slot:icon>
                 <v-avatar>
-                <img :src="require('../assets/idatlogo.jpg')">
+                <img style="padding:8px;background:white;" src="https://www.solidaconstruccion.com/wp-content/uploads/2022/08/cropped-512.jpg">
+               
                 </v-avatar>
             </template>
             <template v-slot:opposite  align-start >
-                <span >Septiembre 2016 - Diciembre 2016</span>
+                <span >Mayo 2022 - Julio 2022 ✔️</span>
             </template>
 
             <v-card color="white lighten-1 pt-4 experencie-card "
                 dark 
             >
-                <v-card-title class="title primary px-5 py-2  experencie-title line-left ">Idat</v-card-title>
+                <v-card-title class="title primary px-5 py-2  experencie-title line-left ">Solida Construcción</v-card-title>
+                    <v-card-text class="white text--primary   "> 
+                        <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollar Web - Freelancer 💻</span></h2> 
+                     <!--    <h2 class="black--text mt-3 " >Funciones:</h2  >  
+                        <ul class="list mt-2" >
+                            <li>Programación para Webs</li>
+                            <li>Maquetación de páginas Webs</li>
+                            <li>Actualización de información en la web</li>
+                            <li>Actualización de información en Aula virtual</li>
+                            <li>Asistencia en el area de soporte técnico</li> 
+                        </ul> -->
+                        <h2  class="black--text mt-3 " >Proyecto desarrollado:</h2>
+                           <ul class="list list-success mt-2" >
+                            <li>Solida Construcción: <a  class="list-link" href="https://www.solidaconstruccion.com" target="_blank" >https://www.solidaconstruccion.com</a> </li> 
+                         </ul>   
+                    </v-card-text>  
+               <!--  <v-card-title class="title primary px-5 py-2  experencie-title line-left ">Idat</v-card-title>
                     <v-card-text class="white text--primary   "> 
                         <h2 class="black--text subtitle-span ">Cargo: <span>Practicante Web</span></h2> 
                         <h2 class="black--text mt-3 " >Funciones:</h2  >  
@@ -116,7 +133,7 @@
                              <li>He apoyado en dar soluciones a equipos con fallas técnicas en el área de soporte. </li>
                              <li>Idat: <a  class="list-link" href="https://www.idat.edu.pe/" target="_blank" >https://www.idat.edu.pe/</a> </li>
                            </ul>   
-                    </v-card-text>  
+                    </v-card-text>   -->
                 </v-card>
             </v-timeline-item>
         </v-timeline> 

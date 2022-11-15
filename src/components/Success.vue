@@ -61,18 +61,25 @@ export default {
             sector:'Cuidado del bebé', 
             link:'https://pigeonlatam.com'
           },
-          {
-            imgUrl:'cyberweektododkasa.jpg',
-            name:'Cyber Week TododKasa',
-            sector:'Tienda', 
-            link:'https://cyberweektododkasa.feriasdigitales.pe/'
+           {
+            imgUrl:'screenshot-igc.jpg',
+            name:'IGC - Instituto de Gerencia Intercontinental',
+            sector:'Centro de capacitación', 
+            link:'https://igc.edu.pe'
           },
-          {
+           {
+            imgUrl:'screenshot-escuela.jpg',
+            name:'EG - Escuela de Gerencia y Gestión',
+            sector:'Centro de capacitación', 
+            link:'https://escuelag.com'
+          },
+           {
             imgUrl:'prestigescreenshot.jpg',
             name:'Prestige Dental Care',
             sector:'Salud', 
             link:'https://prestigedentalcarefl.com/'
-          }, 
+          },  
+         
           {
             imgUrl:'call2action.jpg',
             name:'Call2action',
@@ -91,6 +98,12 @@ export default {
             sector:'Agencia de Marketing',
             link:'https://tendenzeperu.com/'
           },
+          {
+            imgUrl:'cyberweektododkasa.jpg',
+            name:'Cyber Week TododKasa',
+            sector:'Tienda', 
+            link:'https://cyberweektododkasa.feriasdigitales.pe/'
+          },
          
           {
             imgUrl:'feriasdigitalesscreenshot.jpg',
@@ -98,12 +111,7 @@ export default {
             sector:'Agencia de Marketing', 
             link:'https://feriasdigitales.pe/'
           },
-           {
-            imgUrl:'igcscreenshot.jpg',
-            name:'IGC - Instituto de Gerencia y Gestión',
-            sector:'Capacitación', 
-            link:'https://igc.edu.pe'
-          },
+          
           {
             imgUrl:'magaescreenshot.jpg',
             name:'Il magazzino delle sorelle',

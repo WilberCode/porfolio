@@ -10,18 +10,18 @@
         </p>
       </div>
        
-      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1jn6Zv4emgP8zgdFu2C-d5mpBlsBGM5rp/view" target="_blank"   >Descargar CV </v-btn>
+      <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1_UhUSBTwYFE0t8eqjyy2rh81qGKtUBGg/view" target="_blank"   >Descargar CV </v-btn>
       <v-btn class="banner-btn  large banner-btn--whatsapp" dark="false" round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola" target="_blank" > WhatsApp </v-btn>
       <div class="banner-avatar d-inline-flex py-3 px-4" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
         <div  class="banner-avatar-image" >
           <img  class=" " src="../assets/wilberpariona.jpg" alt="Github"> 
-              <v-btn class="mx-2 social-icon  " href="https://github.com/WilberCode"  >
+              <v-btn class="mx-2 social-icon  " href="https://github.com/WilberCode" target="_blank" >
                 <v-icon size="18px"> {{'fab fa-github'}} </v-icon>
              </v-btn> 
         </div>
         <div class="d-flex  align-center" >
            <div class="ml-4">
-             <p class="mb-2 font-weight-bold banner-avatar-number	">+51938343796</p>  
+             <p class="mb-2 font-weight-bold banner-avatar-number	">Phone: <a href="tel:+51938343796">938343796</a></p>  
              <p  class="mb-0 " >Lima - Perú</p> 
            </div>
         </div>
