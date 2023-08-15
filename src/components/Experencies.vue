@@ -4,6 +4,46 @@
             <v-timeline-item   color="primary lighten-1 experencie"  fill-dot 
                 large   >
                 <template v-slot:icon  color="red"  >
+                    <v-avatar class="white" >
+                    <img  style="width:80%" :src="require('../assets/divelia.svg')"  >
+                    </v-avatar>
+                </template>
+                <template v-slot:opposite  align-start >
+                    <span >Febrero 2023 - Hasta la actualidad 💪</span>
+                </template>
+
+                <v-card color="white lighten-1 pt-4 experencie-card "
+                    dark 
+                >
+                    <v-card-title class="title primary px-5 py-2  experencie-title line-left  "   >Divelia</v-card-title>
+                        <v-card-text class="white text--primary">
+                             <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto 🔴🖥️ - Sigo trabajando 😊  </span></h2> 
+                               <!--   <h2 class="black--text mt-3 " >Funciones:</h2  >  
+                            <ul class="list mt-2" >
+                                <li>Desarrollar páginas Webs</li> 
+                                <li>Desarrollar Tiendas Online</li> 
+                                <li>Configurar SEO esencial para Webs</li> 
+                                <li>Desarrollar landings</li> 
+                                <li>Optimizar Webs</li>
+                                <li>Maquetar Emailings personalizadas </li>
+                                <li>Subir Web a producción</li>
+                            </ul> -->
+                            <h2  class="black--text mt-3 " >Proyectos desarrollados:</h2> 
+                             <ul class="list list-success mt-2" >
+                                <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Páginas Webs</h3>
+                                <li>Your Essence Peru: <a  class="list-link" href="https://youressenceperu.com/" target="_blank" >https://youressenceperu.com/</a> </li>
+                                <li>Curriculums: <a  class="list-link" href="https://www.curriculums.com.pe/" target="_blank" >https://www.curriculums.com.pe/</a> </li>
+                                <li>Emprende: <a  class="list-link" href="https://emprende.net/" target="_blank" >https://emprende.net/</a> </li>
+                                <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
+                                <li>Soldametal: <a  class="list-link" href="https://soldametal.com/" target="_blank" >https://soldametal.com/</a></li> 
+                            </ul> 
+                          
+                        </v-card-text>  
+                    </v-card>
+            </v-timeline-item>
+            <v-timeline-item   color="primary lighten-1 experencie"  fill-dot 
+                large   >
+                <template v-slot:icon  color="red"  >
                     <v-avatar  >
                     <img :src="require('../assets/tendenzelogo.png')"  >
                     </v-avatar>
@@ -89,8 +129,7 @@
             fill-dot large key="2" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true">
             <template v-slot:icon>
                 <v-avatar>
-                <img style="padding:8px;background:white;" src="https://www.solidaconstruccion.com/wp-content/uploads/2022/08/cropped-512.jpg">
-               
+                <span style="font-weight:500; color:white;font-size:20px " >S</span>
                 </v-avatar>
             </template>
             <template v-slot:opposite  align-start >

@@ -2,7 +2,7 @@
 <v-container grid-list-md mb-4 >
   <v-layout row  wrap align-content-space-between="true" class="card-wrap" >
     <template v-for="page in pages">  
-      <v-flex xs12 sm12 md6 lg6  px-3 py-3  :key="page.sertor"> 
+      <v-flex xs12 sm12 md6 lg6  px-3 py-3  :key="page.sertor" data-aos="fade-up"  data-aos-offset="200"  data-aos-once="true"> 
         <v-card class="card">
           <v-img
             class="white--text" 
@@ -37,12 +37,7 @@ export default {
     data(){
       return{
         pages:[
-           {
-            imgUrl:'solidascreenshot.jpg',
-            name:'Solida Construcción',
-            sector:'Constructora', 
-            link:'https://www.solidaconstruccion.com/'
-          },
+         
            {
             imgUrl:'lumiluperuscreenshot.jpg',
             name:'Lumilu Perú',
@@ -135,6 +130,12 @@ export default {
             name:'Cyber Week Bebe & Mamá',
             sector:'Tienda', 
             link:'https://cyberweekbyby.feriasdigitales.pe/'
+          },
+          {
+            imgUrl:'solidascreenshot.jpg',
+            name:'Solida Construcción',
+            sector:'Constructora', 
+            link:'https://www.solidaconstruccion.com/'
           }
          
           ]

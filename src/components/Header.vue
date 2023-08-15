@@ -4,7 +4,9 @@
     <v-layout row wrap>
       <v-flex xs4 md2> 
           <a  href="https://wilbercode.github.io/porfolio/"> 
-            <div class="header-logo"><img :src="require(`../assets/wil.svg`)" alt="Wilber Pariona" data-aos="fade-left"  data-aos-offset="200"  data-aos-once="true" data-aos-delay="500" ></div>
+            <div class="header-logo">
+              <img :src="require(`../assets/wph-logo.svg`)" alt="Wilber Pariona" data-aos="fade-left"  data-aos-offset="200" data-aos-rota  data-aos-once="true" data-aos-delay="1000" data-aos-easing="ease-in-sine"  class="wph-logo">
+            </div>
           </a> 
       </v-flex>
       <v-flex xs8 md10  class="header-nav"> 
@@ -95,24 +97,25 @@ $md: 959px;
   &-logo{ 
     padding-top:.5em;
     padding-bottom:.5em;
-    img{
+    img{ 
+     transform: rotate(-90deg);  
       width:60px;
       vertical-align:middle;
-  /*     animation-delay: 1.5s;
-      animation-duration:1s;  */
+       /*   animation-delay: .2s; */
+      animation-duration:3s;  
       //animation-iteration-count: infinite;
-      /* animation-name: logoAnimation; 
-      transition: all ease-in-out; */
+      animation-name: logoAnimation; 
+    /*   transition: all ease-in-out; */
       
     }
-   /*  @keyframes logoAnimation {
+    @keyframes logoAnimation {
       0%{
-      transform: translateX(-14px);
+        transform: rotate(-90deg);  
       }
       100%{
-         transform: translateX(30px);
+         transform: rotate(0deg); 
       }
-    } */
+    }
   } 
   .menu{
      display: flex;
