@@ -37,7 +37,7 @@
                 >
                 {{ valueProgress-5 }}%
                 </v-progress-circular>  
-                <p>Wordpress, Rest Api, Themes & WooCommerce</p>
+                <p>Wordpress, Rest Api, Elementor, CPT, ACF, Themes & WooCommerce</p>
               </v-flex>
               <v-flex xs12 sm6 md4 lg3 xl3>
                  <v-progress-circular
@@ -49,7 +49,7 @@
                 >
                 {{ valueProgress-5 }}%
                 </v-progress-circular>
-                <p>JavaScript, POO, Ajax, Axios, JSON & JQuery</p> 
+                <p>JavaScript, Ajax, Axios, JSON & JQuery</p> 
               </v-flex> 
               <v-flex xs12 sm6 md4 lg3 xl3> 
                 <v-progress-circular
@@ -61,7 +61,7 @@
                 >
                 {{ valueProgress-10 }}%
                 </v-progress-circular>
-                <p>React.js, Vue.js, Babel & Webpack</p>
+                <p>React.js, Next.js, Vue.js, Babel & Webpack</p>
               </v-flex>  
                <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
@@ -97,7 +97,7 @@
                 >
                 {{ valueProgress-15 }}%
                 </v-progress-circular>  
-                <p>Adove XD, Photoshop & Illustrator</p>
+                <p>Figma, Adove XD, Photoshop & Illustrator</p>
               </v-flex>  
               <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
@@ -145,7 +145,7 @@
                 >
                 {{ valueProgress-10 }}%
                 </v-progress-circular>  
-                <p>Shopify</p>
+                <p>Shopify & PrestaShop</p>
               </v-flex>
             </v-layout>
           </v-container>  
