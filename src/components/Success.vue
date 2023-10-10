@@ -43,13 +43,7 @@ export default {
             name:'Lumilu Perú',
             sector:'Market Shop', 
             link:'https://lumiluperu.com/'
-          },
-           {
-            imgUrl:'biooilscreenshot.jpg',
-            name:'Bio Oil Perú',
-            sector:'Cuidado de la Piel', 
-            link:'https://biooilperu.pe'
-          },
+          }, 
           {
             imgUrl:'pigeon.jpg',
             name:'Pigeon LATAM',
@@ -136,8 +130,13 @@ export default {
             name:'Solida Construcción',
             sector:'Constructora', 
             link:'https://www.solidaconstruccion.com/'
+          },
+         {
+            imgUrl:'biooilscreenshot.jpg',
+            name:'Bio Oil Perú',
+            sector:'Cuidado de la Piel', 
+            link:'https://biooilperu.pe'
           }
-         
           ]
       }
     }
