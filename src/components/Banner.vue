@@ -6,7 +6,7 @@
       <div class="banner-bio">
         <h2>Hola, Soy Wilber</h2>
         <p>
-        Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de carga web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
+        Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de la web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
         </p>
       </div>
        

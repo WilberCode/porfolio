@@ -13,7 +13,7 @@
                 >
                 {{ valueProgress }}%
                 </v-progress-circular>
-                <p>Html5, Pug, Css3 & Sass</p>
+                <p>Html5, Css3 & Sass</p>
               </v-flex>
               <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
@@ -25,7 +25,7 @@
                 >
                 {{ valueProgress }}%
                 </v-progress-circular>  
-                <p>Tailwindcss, Bootstrap, Materializecss, Foundation & EDgrid</p>
+                <p>Tailwindcss, Bootstrap, Materializecss & Foundation</p>
               </v-flex>
                <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
@@ -37,7 +37,7 @@
                 >
                 {{ valueProgress-5 }}%
                 </v-progress-circular>  
-                <p>Wordpress, Rest Api, Elementor, CPT, ACF, Themes & WooCommerce</p>
+                <p>Wordpress, CPT, ACF, Api Rest, Elementor, Themes, Plugins, WooCommerce</p>
               </v-flex>
               <v-flex xs12 sm6 md4 lg3 xl3>
                  <v-progress-circular
@@ -63,39 +63,27 @@
                 </v-progress-circular>
                 <p>React.js, Next.js, Vue.js, Babel & Webpack</p>
               </v-flex>  
-               <v-flex xs12 sm6 md4 lg3 xl3>  
+              <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
                 :rotate="180"
                 :size="100"
                 :width="15"
                 :value="valueProgress-10"
-                color="green"
+                color="teal darken-1"
                 >
                 {{ valueProgress-10 }}%
                 </v-progress-circular>  
-                <p>Git, GitHub, GitLab & Markdown</p>
-              </v-flex>
-               <v-flex xs12 sm6 md4 lg3 xl3>  
-                <v-progress-circular
-                :rotate="180"
-                :size="100"
-                :width="15"
-                :value="valueProgress-15"
-                color="teal darken-1"
-                >
-                {{ valueProgress-15 }}%
-                </v-progress-circular>  
                 <p>SQL, MySQL, MongoDB & Firebase</p>
               </v-flex> 
-               <v-flex xs12 sm6 md4 lg3 xl3>  
+              <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
                 :rotate="180"
                 :size="100"
                 :width="15"
-                :value="valueProgress-15"
+                :value="valueProgress-10"
                 color="light-blue darken-2"
                 >
-                {{ valueProgress-15 }}%
+                {{ valueProgress-10 }}%
                 </v-progress-circular>  
                 <p>Figma, Adove XD, Photoshop & Illustrator</p>
               </v-flex>  
@@ -111,30 +99,30 @@
                 </v-progress-circular>  
                 <p>Node, NPM, Yarn & Gulp </p>
               </v-flex> 
+               <v-flex xs12 sm6 md4 lg3 xl3>  
+                <v-progress-circular
+                :rotate="180"
+                :size="100"
+                :width="15"
+                :value="valueProgress-10"
+                color="green"
+                >
+                {{ valueProgress-10 }}%
+                </v-progress-circular>  
+                <p>Git, GitHub, GitLab & Markdown</p>
+              </v-flex>  
               <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
                 :rotate="180"
                 :size="100"
                 :width="15"
-                :value="valueProgress-15"
+                :value="valueProgress-10"
                 color="blue lighten-1"
                 >
-                {{ valueProgress-15 }}%
+                {{ valueProgress-10 }}%
                 </v-progress-circular>  
                 <p>PHP </p>
-              </v-flex>
-              <v-flex xs12 sm6 md4 lg3 xl3>  
-                <v-progress-circular
-                :rotate="180"
-                :size="100"
-                :width="15"
-                :value="valueProgress-20"
-                color="cyan darken-2"
-                >
-                {{ valueProgress-20 }}%
-                </v-progress-circular>  
-                <p>Python</p>
-              </v-flex>
+              </v-flex> 
               <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
                 :rotate="180"
@@ -146,6 +134,18 @@
                 {{ valueProgress-10 }}%
                 </v-progress-circular>  
                 <p>Shopify & PrestaShop</p>
+              </v-flex>
+              <v-flex xs12 sm6 md4 lg3 xl3>  
+                <v-progress-circular
+                :rotate="180"
+                :size="100"
+                :width="15"
+                :value="valueProgress-20"
+                color="orange "
+                >
+                {{ valueProgress-20 }}%
+                </v-progress-circular>  
+                <p>Laravel & Python</p>
               </v-flex>
             </v-layout>
           </v-container>  
