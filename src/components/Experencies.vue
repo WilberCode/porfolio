@@ -18,7 +18,7 @@
                 >
                     <v-card-title class="title primary px-5 py-2  experencie-title line-left  "   >Grupo Tendenze Comunicaciones</v-card-title>
                         <v-card-text class="white text--primary">
-                             <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto 🔴🖥️ - Sigo trabajando 😊  </span></h2> 
+                             <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador Web - Remoto 🔴🖥️</span></h2> 
                                <!--   <h2 class="black--text mt-3 " >Funciones:</h2  >  
                             <ul class="list mt-2" >
                                 <li>Desarrollar páginas Webs</li> 
