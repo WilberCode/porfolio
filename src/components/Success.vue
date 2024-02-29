@@ -51,7 +51,7 @@ export default {
             link:'https://pigeonlatam.com'
           },
            {
-            imgUrl:'screenshot-igc.jpg',
+            imgUrl:'igcscreen.jpg',
             name:'IGC - Instituto de Gerencia Intercontinental',
             sector:'Centro de capacitación', 
             link:'https://igc.edu.pe'
