@@ -63,10 +63,16 @@ export default {
             link:'https://soldametal.com/'
           },
           {
-            imgUrl:'lunademielscreenshot.jpg',
+            imgUrl:'ldmscreen.jpg',
             name:'Portal de luna de miel',
             sector:'Guía para parejas', 
             link:'https://www.lunademiel.com.pe/'
+          },
+          {
+            imgUrl:'smilescreen.jpg',
+            name:'Smiles Peru',
+            sector:'Leading Dentist in Lima, Peru', 
+            link:'https://www.smilesperu.com/'
           },
        
            {
