@@ -45,7 +45,7 @@ export default {
             link:'https://lumiluperu.com/'
           }, 
           {
-            imgUrl:'pigeon.jpg',
+            imgUrl:'pigeonscreen.jpg',
             name:'Pigeon LATAM',
             sector:'Cuidado del bebé', 
             link:'https://pigeonlatam.com'
