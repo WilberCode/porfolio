@@ -39,7 +39,7 @@ export default {
         pages:[
          
            {
-            imgUrl:'lumiluperu.jpg',
+            imgUrl:'lumiluperuscreen.jpg',
             name:'Lumilu Perú',
             sector:'Market Shop', 
             link:'https://lumiluperu.com/'
