@@ -6,7 +6,7 @@
         <v-card class="card">
           <v-img
             class="white--text" 
-            :src="require(`../assets/${page.imgUrl}`)" 
+            :src="require(`../assets/${page.imgUrl}?v=1`)" 
           >
             <v-container fill-height fluid>
               <v-layout fill-height>
