@@ -19,7 +19,7 @@
           <div class="card-description">
               <v-card-title >
               <div>
-                <span class="font-weight-bold">{{page.name}}</span> 
+                <h3 class="font-weight-bold ">{{page.name}}</h3> 
                 <p class="grey--text">{{page.sector}}</p> 
                 <a  class="list-link py-2 pr-5" :href="page.link" target="_blank" >{{page.link}}</a> 
               </div>
@@ -40,7 +40,7 @@ export default {
          
            {
             imgUrl:'lumiluperuscreen.jpg',
-            name:'Lumilu Perú',
+            name:'Lumilu Perú - Tienda',
             sector:'Market Shop', 
             link:'https://lumiluperu.com/'
           }, 
@@ -57,11 +57,18 @@ export default {
             link:'https://igc.edu.pe'
           },
            {
-            imgUrl:'screenshot-escuela.jpg',
-            name:'EG - Escuela de Gerencia y Gestión',
-            sector:'Centro de capacitación', 
-            link:'https://escuelag.com'
+            imgUrl:'soldametalscreen.jpg',
+            name:'Soldametal - Tienda',
+            sector:'Los mejores equipos de soldar', 
+            link:'https://soldametal.com/'
           },
+          {
+            imgUrl:'lunademielscreenshot.jpg',
+            name:'Portal de luna de miel',
+            sector:'Guía para parejas', 
+            link:'https://www.lunademiel.com.pe/'
+          },
+       
            {
             imgUrl:'prestigescreenshot.jpg',
             name:'Prestige Dental Care',
@@ -74,18 +81,18 @@ export default {
             name:'Call2action',
             sector:'Agencia de Marketing',
             link:'https://call2action.pe/'
-          },
-           {
-            imgUrl:'lunademielscreenshot.jpg',
-            name:'Portal de luna de miel',
-            sector:'Guía para parejas', 
-            link:'https://www.lunademiel.com.pe/'
-          },
+          }, 
           {
             imgUrl:'tendenzescreenshot.jpg',
             name:'Tendenze Perú Comunicaciones',
             sector:'Agencia de Marketing',
             link:'https://tendenzeperu.com/'
+          },
+          {
+            imgUrl:'screenshot-escuela.jpg',
+            name:'EG - Escuela de Gerencia y Gestión',
+            sector:'Centro de capacitación', 
+            link:'https://escuelag.com'
           },
           {
             imgUrl:'cyberweektododkasa.jpg',
