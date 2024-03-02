@@ -10,11 +10,11 @@
          <v-layout row wrap>
            <v-flex xs12>  
             
-            <h2 id="Experencias" class="text-xs-center mt-5 mb-4" >Experencias</h2>
+            <h2 id="experencia" class="text-xs-center mt-5 mb-4" >Experencias</h2>
             <Experencies/>
-             <h2 id="Casosdeexito" class="text-xs-center mt-5 mb-4">Páginas desarrolladas</h2>
+             <h2 id="proyectos" class="text-xs-center mt-5 mb-4">Páginas desarrolladas</h2>
              <Success/>
-             <h2 id="Conocimientos" class="text-xs-center mt-5 mb-4" >Conocimientos</h2>
+             <h2 id="conocimientos" class="text-xs-center mt-5 mb-4" >Conocimientos</h2>
             <Knowledge/>
             </v-flex>
          </v-layout>
