@@ -74,6 +74,19 @@ export default {
             sector:'Leading Dentist in Lima, Peru', 
             link:'https://www.smilesperu.com/'
           },
+          {
+            imgUrl:'yourscreen.jpg',
+            name:'Your Essence Peru',
+            sector:'Salud y belleza integral', 
+            link:'https://youressenceperu.com/'
+          },
+          {
+            imgUrl:'emauscreen.jpg',
+            name:'Emaus santa rosa',
+            sector:'Donaciones', 
+            link:'https://www.emaussantarosa.org/'
+          },
+        
        
            {
             imgUrl:'prestigescreenshot.jpg',
