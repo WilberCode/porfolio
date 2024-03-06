@@ -86,7 +86,18 @@ export default {
             sector:'Donaciones', 
             link:'https://www.emaussantarosa.org/'
           },
-        
+          {
+            imgUrl:'call2actionscreen.jpg',
+            name:'Call2action',
+            sector:'Agencia de Marketing',
+            link:'https://call2action.pe/'
+          }, 
+          {
+            imgUrl:'winescreen.jpg',
+            name:'Wine and Art',
+            sector:'Pintura y Vino',
+            link:'https://wineandartexperience.com/'
+          }, 
        
            {
             imgUrl:'prestigescreenshot.jpg',
@@ -95,12 +106,7 @@ export default {
             link:'https://prestigedentalcarefl.com/'
           },  
          
-          {
-            imgUrl:'call2action.jpg',
-            name:'Call2action',
-            sector:'Agencia de Marketing',
-            link:'https://call2action.pe/'
-          }, 
+          
           {
             imgUrl:'tendenzescreenshot.jpg',
             name:'Tendenze Perú Comunicaciones',
