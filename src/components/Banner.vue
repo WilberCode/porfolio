@@ -4,10 +4,11 @@
   <v-layout row wrap>  
     <v-flex xs12 sm12 md4 lg5 xl4 >  
       <div class="banner-bio">
-        <h2>Hola, Soy Wilber</h2>
-        <p>
+        <h2>Hola, Soy Wilber.</h2>
+      <!--   <p>
         Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de la web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
-        </p>
+        </p> -->
+        <p>Un apasionado desarrollador web con 4 años de experiencia, especializado en la creación de páginas web estáticas y dinámicas con WordPress. Además, tengo experiencia en el desarrollo de tiendas en línea utilizando WooCommerce y Shopify, así como en la creación de landing pages efectivas. Mi enfoque incluye la optimización de la velocidad de las páginas web y el posicionamiento SEO on-page para garantizar una mejor experiencia del usuario y una mayor visibilidad en los motores de búsqueda. Mi pasión por el desarrollo web se refleja en cada proyecto que realizo, siempre buscando superar las expectativas y lograr resultados excepcionales para mis clientes.</p>
       </div>
        
       <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1_UhUSBTwYFE0t8eqjyy2rh81qGKtUBGg/view" target="_blank"   >Descargar CV </v-btn>
@@ -64,7 +65,7 @@ $md: 959px;
   
   &-btn{
     font-size:14px;
-    color:#ffffff;
+    color:#000000;
     text-transform:none;
     padding:1.8rem 2em;
     margin-left:0;  
@@ -80,7 +81,7 @@ $md: 959px;
   }
   & .fill-bg.v-btn.v-btn--outline{
     background: var(--v-secondary-base) !important;
-    color:white!important;
+    color:#202aab!important;
      border-width: 2px !important;
      border-color: var(--v-secondary-base) ;
   }

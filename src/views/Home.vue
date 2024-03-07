@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5 {
 * i{ font-family: 'Material Icons' !important; }
 .morphsvg{ 
     width:100%;
-    height:650px;
+    height:740px;
     position:absolute;  
     top:0;
     left:0;
@@ -89,14 +89,14 @@ h1,h2,h3,h4,h5 {
     //    d: path("M0 0H1366V557.448C1150 569 1092.91 607.458 838.535 648.223C322 731 0 668.512 0 668.512V0Z"); 
     //   }
     // }  
-    @media (max-width:650px){
+    @media (max-width:1000px){
       height:780px; 
       path.morph{
        d: path("M0 0H1366V492.82C1150 503.034 1092.91 537.033 838.535 573.072C322 646.252 0 573.072 0 573.072V0Z"); 
       } 
     }   
-    @media (max-width:250px){
-      height:850px; 
+    @media (max-width:400px){
+      height:980px; 
     }   
     
   
