@@ -69,6 +69,12 @@ export default {
             link:'https://www.lunademiel.com.pe/'
           },
           {
+            imgUrl:'hosteleriascreen.jpg',
+            name:'Hosteleria Maquinaria',
+            sector:'Market', 
+            link:'https://hosteleriamaquinaria.es/'
+          },
+          {
             imgUrl:'smilescreen.jpg',
             name:'Smiles Peru',
             sector:'Leading Dentist in Lima, Peru', 
@@ -97,6 +103,12 @@ export default {
             name:'Wine and Art',
             sector:'Pintura y Vino',
             link:'https://wineandartexperience.com/'
+          }, 
+          {
+            imgUrl:'ambulscreen.jpg',
+            name:'Ambul',
+            sector:'Tienda',
+            link:'https://comercializadoraambul.com/'
           }, 
        
            {
