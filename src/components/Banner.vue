@@ -8,7 +8,7 @@
       <!--   <p>
         Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de la web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
         </p> -->
-        <p>Un apasionado desarrollador web con 4 años de experiencia, especializado en la creación de páginas web estáticas y dinámicas con WordPress. Además, tengo experiencia en el desarrollo de tiendas en línea utilizando WooCommerce y Shopify, así como en la creación de landing pages efectivas. Mi enfoque incluye la optimización de la velocidad de las páginas web y el posicionamiento SEO on-page para garantizar una mejor experiencia del usuario y una mayor visibilidad en los motores de búsqueda. Mi pasión por el desarrollo web se refleja en cada proyecto que realizo, siempre buscando superar las expectativas y lograr resultados excepcionales para mis clientes.</p>
+        <p>Un apasionado desarrollador web con 4 años de experiencia, especializado en la creación de páginas web estáticas y dinámicas con WordPress y Laravel. Además, tengo experiencia en el desarrollo de tiendas en línea utilizando WooCommerce y Shopify, así como en la creación de landing pages. Mi enfoque incluye la optimización de la velocidad de las páginas web y el posicionamiento SEO on-page para garantizar una mejor experiencia del usuario y una mayor visibilidad en los motores de búsqueda. Mi pasión por el desarrollo web se refleja en cada proyecto que realizo, siempre buscando superar las expectativas y lograr resultados excepcionales para mis clientes.</p>
       </div>
        
       <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1_UhUSBTwYFE0t8eqjyy2rh81qGKtUBGg/view" target="_blank"   >Descargar CV </v-btn>
@@ -22,7 +22,7 @@
         </div>
         <div class="d-flex  align-center" >
            <div class="ml-4">
-             <p class="mb-2 font-weight-bold banner-avatar-number	">Phone: <a href="tel:+51938343796">938343796</a></p>  
+             <p class="mb-2 font-weight-bold banner-avatar-number	">Phone: <a href="tel:+51926776516">926776516</a></p>  
              <p  class="mb-0 " >Lima - Perú</p> 
            </div>
         </div>

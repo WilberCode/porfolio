@@ -90,6 +90,7 @@
                                 <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
                                 <li>Soldametal: <a  class="list-link" href="https://soldametal.com/" target="_blank" >https://soldametal.com/</a></li> 
                                 <li>Hosteleria: <a  class="list-link" href="https://hosteleriamaquinaria.es/" target="_blank" >https://hosteleriamaquinaria.es/</a></li> 
+                                <li>Comercializadora: <a  class="list-link" href="https://comercializadoraambul.com/" target="_blank" >https://comercializadoraambul.com/</a></li> 
                             </ul> 
                           
                         </v-card-text>  
