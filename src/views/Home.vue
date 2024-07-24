@@ -9,7 +9,20 @@
       <v-container >
          <v-layout row wrap>
            <v-flex xs12>  
-            
+            <v-layout row wrap>
+                <v-flex xs12>  
+                 <div class="recursos">
+
+                  <h2>  Capacidades Técnicas y Disponibilidad </h2> <br>
+                  <h3>  Recursos Técnicos: </h3>
+                  <p>Buena capacidad de cómputo y conexión de internet <br class="hidden-sm-and-down"> estable para asegurar el
+                    trabajo y comunicación fluida.</p>
+                  <h3>  Disponibilidad: </h3> 
+                  <p>Brindo soluciones en cualquier momento si se presentan problemas, <br class="hidden-sm-and-down" > garantizando
+                    continuidad y eficiencia en los proyectos.</p>
+                 </div>
+                </v-flex>
+            </v-layout>
             <h2 id="experencia" class="text-xs-center mt-5 mb-4" >Experencias</h2>
             <Experencies/>
              <h2 id="proyectos" class="text-xs-center mt-5 mb-4">Páginas desarrolladas</h2>
@@ -50,6 +63,9 @@
  
 </script> 
 <style lang="scss">  
+.recursos{
+  margin-top:-40px;
+}
 // Breakpoints  
 :root{ 
 --xl: 1904px;
