@@ -5,24 +5,27 @@
     <v-flex xs12 sm12 md4 lg5 xl4 >  
       <div class="banner-bio">
         <h2>Hola, Soy Wilber.</h2>
-      <!--   <p>
-        Especialista en Desarrollo Web con más de 4 años de experiencia. Desarrollo páginas web estáticas, páginas web dinámicas con plantillas personalizadas de WordPress, tiendas online personalizadas con WordPress + WooCommerce o Shopify, creo landing pages, mejoro la velocidad de la web y también realizo posicionamiento de SEO On Page. Dispuesto a investigar nuevas funcionalidades de la web, aprender y asumir nuevos retos.
-        </p> -->
-        <p>Un apasionado desarrollador web con 4 años de experiencia, especializado en la creación de páginas web estáticas y dinámicas con WordPress y Laravel. Además, tengo experiencia en el desarrollo de tiendas en línea utilizando WooCommerce y Shopify, así como en la creación de landing pages. Mi enfoque incluye la optimización de la velocidad de las páginas web y el posicionamiento SEO on-page para garantizar una mejor experiencia del usuario y una mayor visibilidad en los motores de búsqueda. Mi pasión por el desarrollo web se refleja en cada proyecto que realizo, siempre buscando superar las expectativas y lograr resultados excepcionales para mis clientes.</p>
-      </div>
+ 
+        <p>
+       
+Un apasionado desarrollador web con más de 4 años de experiencia, especializado en la creación de páginas web y tiendas online utilizando WordPress, Laravel, WooCommerce y Shopify. Además, tengo experiencia en optimización del rendimiento y SEO.
+<br><br>
+Mi enfoque se centra en proporcionar soluciones de alta calidad, optimizadas para mejorar la experiencia del usuario y cumplir con los objetivos comerciales de mis clientes.
+        </p>
+       </div>
        
       <v-btn class="banner-btn large fill-bg  "  round color="secondary"   data-aos="fade-up" outline  data-aos-offset="200" data-aos-delay="800"  data-aos-once="true" href="https://drive.google.com/file/d/1_UhUSBTwYFE0t8eqjyy2rh81qGKtUBGg/view" target="_blank"   >Descargar CV </v-btn>
       <v-btn class="banner-btn  large banner-btn--whatsapp"   round  color="secondary"    outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1200" data-aos-once="true" href="https://api.whatsapp.com/send?phone=51938343796&text=Hola" target="_blank" > WhatsApp </v-btn>
-      <div class="banner-avatar d-inline-flex py-3 px-4" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
+      <div class="banner-avatar d-inline-flex py-3 px-4 mt-5" outline data-aos="fade-up"  data-aos-offset="200" data-aos-delay="1500"  >
         <div  class="banner-avatar-image" >
           <img  class=" " src="../assets/wilberpariona.jpg" alt="Github"> 
               <v-btn class="mx-2 social-icon  " href="https://github.com/WilberCode" target="_blank" >
                 <v-icon size="18px"> {{'fab fa-github'}} </v-icon>
              </v-btn> 
         </div>
-        <div class="d-flex  align-center" >
+        <div class="d-flex  align-center " >
            <div class="ml-4">
-             <p class="mb-2 font-weight-bold banner-avatar-number	">Phone: <a href="tel:+51926776516">926776516</a></p>  
+             <p class="mb-2 font-weight-bold banner-avatar-number	">Teléfono: <a href="tel:+51926776516">926776516</a></p>  
              <p  class="mb-0 " >Lima - Perú</p> 
            </div>
         </div>
