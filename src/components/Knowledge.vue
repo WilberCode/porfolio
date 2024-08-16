@@ -3,6 +3,18 @@
         <div class="text-xs-center">
           <v-container grid-list-sm>
             <v-layout row wrap>
+              <v-flex xs12 sm6 md4 lg3 xl3>  
+                <v-progress-circular
+                :rotate="180"
+                :size="100"
+                :width="15"
+                :value="valueProgress"
+                color="blue lighten-1"
+                >
+                {{ valueProgress }}%
+                </v-progress-circular>  
+                <p>PHP, Laravel, Filament, livewire, alpine & Inertia</p>
+              </v-flex> 
               <v-flex xs12 sm6 md4 lg3 xl3>
                  <v-progress-circular
                 :rotate="360"
@@ -37,32 +49,20 @@
                 >
                 {{ valueProgress }}%
                 </v-progress-circular>  
-                <p>Wordpress, CPT, ACF, Api Rest, Elementor, Themes, Plugins, WooCommerce</p>
+                <p>Wordpress, CPT, ACF, Api Rest, Elementor, Themes, Plugins, WooCommerce & SEO</p>
               </v-flex>
               <v-flex xs12 sm6 md4 lg3 xl3>
                  <v-progress-circular
                 :rotate="-90"
                 :size="100"
                 :width="15"
-                :value="valueProgress-5"
+                :value="valueProgress"
                 color="primary"
                 >
-                {{ valueProgress-5 }}%
+                {{ valueProgress }}%
                 </v-progress-circular>
                 <p>JavaScript, Ajax, Axios, JSON & JQuery</p> 
-              </v-flex> 
-              <v-flex xs12 sm6 md4 lg3 xl3>  
-                <v-progress-circular
-                :rotate="180"
-                :size="100"
-                :width="15"
-                :value="valueProgress-5"
-                color="blue lighten-1"
-                >
-                {{ valueProgress-5 }}%
-                </v-progress-circular>  
-                <p>PHP </p>
-              </v-flex> 
+              </v-flex>  
               <v-flex xs12 sm6 md4 lg3 xl3> 
                 <v-progress-circular
                 :rotate="90"
@@ -109,7 +109,7 @@
                 >
                 {{ valueProgress-10 }}%
                 </v-progress-circular>  
-                <p>Node, NPM, Yarn & Gulp </p>
+                <p>Vite, Node, NPM, Yarn & Gulp </p>
               </v-flex> 
                <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
@@ -140,12 +140,12 @@
                 :rotate="180"
                 :size="100"
                 :width="15"
-                :value="valueProgress-20"
+                :value="valueProgress-50"
                 color="orange "
                 >
-                {{ valueProgress-20 }}%
+                {{ valueProgress-50 }}%
                 </v-progress-circular>  
-                <p>Laravel & Python</p>
+                <p>Python</p>
               </v-flex>
             </v-layout>
           </v-container>  
