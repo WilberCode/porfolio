@@ -1,7 +1,49 @@
 <template>
     <div>  
         <v-timeline align-top  :dense="$vuetify.breakpoint.smAndDown"   >
-          
+            <v-timeline-item   color="primary lighten-1 experencie"  fill-dot 
+                large   >
+                <template v-slot:icon  color="red"  >
+                    <v-avatar class="white" >
+                    <img  style="width:80%; height:50%;" :src="require('../assets/glup.png')"  >
+                    </v-avatar>
+                </template>
+                <template v-slot:opposite  align-start >
+                    <span >Agosto 2024 - hasta la actualidad 💪</span>
+                </template>
+
+                <v-card color="white lighten-1 pt-4 experencie-card "
+                    dark 
+                >
+                    <v-card-title class="title primary px-5 py-2  experencie-title line-left  "   >Club Tech</v-card-title>
+                        <v-card-text class="white text--primary">
+                             <h2 class="black--text subtitle-span ">Cargo: <span>Desarrollador de E-commerce – Remoto 🔴🖥️</span></h2> 
+                               <!--   <h2 class="black--text mt-3 " >Funciones:</h2  >  
+                            <ul class="list mt-2" >
+                                <li>Desarrollar páginas Webs</li> 
+                                <li>Desarrollar Tiendas Online</li> 
+                                <li>Configurar SEO esencial para Webs</li> 
+                                <li>Desarrollar landings</li> 
+                                <li>Optimizar Webs</li>
+                                <li>Maquetar Emailings personalizadas </li>
+                                <li>Subir Web a producción</li>
+                            </ul> -->
+                            <h2  class="black--text mt-3 " >Proyectos desarrollados:</h2> 
+                             <ul class="list list-success mt-2" >
+                                <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Páginas Webs</h3>
+                                <li>Ministerio de vivienda: <a  class="list-link" href="https://viviendaconpunche.vivienda.gob.pe/" target="_blank" >https://viviendaconpunche.vivienda.gob.pe/</a> </li>
+                                <li>Embajada de Países Bajos: <a  class="list-link" href="https://nlandes.com/" target="_blank" >https://nlandes.com/</a></li> 
+                                <li>Roa Masterclass: <a  class="list-link" href="https://roamasterclass.com/" target="_blank" >https://roamasterclass.com/</a> </li>
+                                <li>Academia Roa: <a  class="list-link" href="https://academiaroa.com/" target="_blank" >https://academiaroa.com/</a> </li> 
+                                <li>Zeia: <a  class="list-link" href="https://zeia.com.pe/" target="_blank" >https://zeia.com.pe/</a> </li> 
+                                <h3  class="font-weight-bold roboto-condensed-bold black--text mt-3 mb-2 " >Tiendas Online</h3>
+                                <li>Wayu: <a  class="list-link" href="https://wayu.com.pe/" target="_blank" >https://wayu.com.pe/</a></li> 
+                                <li>Daryza: <a  class="list-link" href="https://daryza.com/" target="_blank" >https://daryza.com/</a></li> 
+                            </ul> 
+                          
+                        </v-card-text>  
+                    </v-card>
+            </v-timeline-item>
             <v-timeline-item   color="primary lighten-1 experencie"  fill-dot 
                 large   >
                 <template v-slot:icon  color="red"  >

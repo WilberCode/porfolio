@@ -7,10 +7,13 @@
         <h2>Hola, Soy Wilber.</h2>
  
         <p>
-       
-Un apasionado desarrollador web con más de 4 años de experiencia, especializado en la creación de páginas web y tiendas online utilizando WordPress, Laravel, WooCommerce y Shopify. Además, tengo experiencia en optimización del rendimiento y SEO.
-<br><br>
-Mi enfoque se centra en proporcionar soluciones de alta calidad, optimizadas para mejorar la experiencia del usuario y cumplir con los objetivos comerciales de mis clientes.
+          Soy desarrollador Fullstack con más de 4 años de experiencia. Me especializo en WordPress y Laravel
+para crear páginas web, aplicaciones web y landings, además de tiendas en línea con WooCommerce y
+Shopify. También tengo experiencia en SEO on page para ayudar a mejorar el posicionamiento de
+páginas web en los motores de búsqueda.
+
+ <br><br>
+Mi enfoque se centra en proporcionar soluciones de alta calidad, optimizadas para mejorar la experiencia del usuario y cumplir con los objetivos comerciales de los clientes.
         </p>
        </div>
        
